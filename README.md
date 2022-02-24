@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=escapeez&show_icons=true&theme=synthwave&locale=en" alt="escapeez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=escapeez&theme=dark" alt="escapeez" /></p>
+
+<h3 align="left">Medium Posts</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
